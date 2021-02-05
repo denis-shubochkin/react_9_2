@@ -1,0 +1,39 @@
+.PostCreationForm {
+    text-align: right;
+}
+
+.CloseFormBtn, .TextArea, .PublishBtn {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.CloseFormBtn {
+    text-align: right;
+    background-color: inherit;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.TextArea {
+    width: 90%;
+    resize: none;
+    outline: none;
+    height: 80px;
+}
+
+.PublishBtn {
+    background-color: rgb(42, 114, 221);
+    color: white;
+    outline: none;
+    border-radius: 3px;
+    border: none;
+    padding: 5px;
+    display: block;
+    cursor: pointer;
+    width: 100px;
+    margin-left: auto;
+    margin-right: 20px;
+    text-decoration: none;
+}

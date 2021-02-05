@@ -1,0 +1,36 @@
+.Post {
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: 1px solid rgb(206, 204, 204);
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.PostHeader {
+    margin-right: auto;
+    display: block;
+    text-align: left;
+}
+
+.Photo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.NameTimeBlock {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.Time {
+    font-size: x-small;
+}
+
+.PostContent {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
